@@ -4,7 +4,7 @@ title: "UET 2nd Sem: Bridging Python Logic with Database Power"
 date: 2026-04-05
 categories: [UET, Database, StudentLife]
 image: 
-  path: "/assets/images/party.jpg"
+  path: "/assets/img/party.jpg"
 ---
 
 # 🎓 UET Engineering: The 2nd Semester Chapter
