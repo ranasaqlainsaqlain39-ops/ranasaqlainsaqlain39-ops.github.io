@@ -1,3 +1,11 @@
+---
+layout: post
+title: "🎓 UET Engineering Journey: Mastering the Digital Frontier"
+date: 2026-04-05
+categories: [UET, Python]
+image: "/assets/images/your-picture.jpg"
+---
+
 # 🎓 UET Engineering Journey: Mastering the Digital Frontier
 
 ---
