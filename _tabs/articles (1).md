@@ -2,6 +2,7 @@
 layout: page
 title: Articles
 icon: fas fa-newspaper
+order: 1
 ---
 
 <style>
