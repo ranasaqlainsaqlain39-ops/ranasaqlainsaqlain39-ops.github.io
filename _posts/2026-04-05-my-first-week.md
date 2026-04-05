@@ -4,7 +4,7 @@ title: "🎓 UET Engineering Journey: Mastering the Digital Frontier"
 date: 2026-04-05
 categories: [UET, Python]
 image: 
-path: /assets/img/uet.jpg
+  path: /assets/img/uet.jpg
 ---
 
 # 🎓 UET Engineering Journey: Mastering the Digital Frontier
