@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UET 2nd Sem: Bridging Python Logic with Database Power"
+title: "Bridging Python Logic"
 date: 2026-04-05
 categories: [UET, Database, StudentLife]
 image: 
