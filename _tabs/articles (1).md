@@ -156,8 +156,8 @@ order: 1
           <span class="badge">HTML & CSS</span>
           <span class="card-date">18 Mar 2026</span>
         </div>
-        <div class="card-title">Understanding HTML Document Structure</div>
-        <div class="card-excerpt">A beginner breakdown of how HTML documents are structured — from doctype to semantic tags and why they matter for accessibility.</div>
+        <div class="card-title">UET Engineering Journey: Mastering the Digital Frontier</div>
+        <div class="card-excerpt">A journey of innovation and learning at UET, focused on mastering modern digital technologies and shaping future engineers for the digital world.</div>
       </div>
       <div class="card-meta-bottom">
         <span class="read-time">5 min read</span>
@@ -176,8 +176,8 @@ order: 1
           <span class="badge">CSS Layout</span>
           <span class="card-date">24 Mar 2026</span>
         </div>
-        <div class="card-title">Mastering Flexbox for Responsive Pages</div>
-        <div class="card-excerpt">How I used Flexbox in my lab assignment to align cards and navigation bars without breaking the layout on mobile screens.</div>
+        <div class="card-title">My second week in which i made different friends according to my nature</div>
+        <div class="card-excerpt">In second week i learned python from Dr.Bilal in which i learned differnet things.</div>
       </div>
       <div class="card-meta-bottom">
         <span class="read-time">4 min read</span>
