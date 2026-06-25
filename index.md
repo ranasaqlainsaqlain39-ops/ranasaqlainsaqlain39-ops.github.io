@@ -10,7 +10,7 @@ title: "Rana Saqlain,s Site"
       <h1 style="font-size: 2.4rem; font-weight: 800; margin: 0 0 12px 0;">Rana Muhammad Saqlain</h1>
       <p style="font-size: 1rem; color: #a8b2c1; margin: 0 0 24px 0; max-width: 520px; line-height: 1.7;">Documenting my journey through Python, Database Systems, and Computer Engineering at UET — one post at a time.</p>
       <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-        <a href="/posts/" style="background: #e94560; color: white; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px;">📚 Read My Posts</a>
+        <a href="/archives/" style="background: #e94560; color: white; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px;">📚 Read My Posts</a>
         <a href="/about/" style="background: transparent; color: white; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; border: 2px solid white;">👤 About Me</a>
         <a href="https://github.com/ranasaqlainsaqlain39-ops" style="background: transparent; color: white; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; border: 2px solid #e94560;">🐙 GitHub</a>
       </div>
