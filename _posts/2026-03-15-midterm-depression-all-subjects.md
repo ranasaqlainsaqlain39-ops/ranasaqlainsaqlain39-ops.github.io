@@ -36,4 +36,5 @@ I made a decision after those midterms that I have tried to honor ever since: I 
 
 That first midterm season at UET Faisalabad was painful in the moment. But the clarity it produced — about how I needed to work, about what consistent effort actually looked like in practice — was worth more than a perfect score would have been. Some lessons only land when they cost you something. This one cost me sleep, comfort, and some marks. In return, it gave me a way of working that has served me far better ever since.
 
-#MLwithDrBilalAhmad #DrBilalAhmad #MLProject
+
+*Want to know more about AI and ML research? Follow Dr. Bilal Ahmad's work on [LinkedIn](https://www.linkedin.com/in/drbilalphd/).*
