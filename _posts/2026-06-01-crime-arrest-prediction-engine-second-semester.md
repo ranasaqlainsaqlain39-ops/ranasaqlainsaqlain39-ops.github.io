@@ -5,10 +5,12 @@ categories: [Second Semester]
 tags: [machine-learning, random-forest, mysql, fastapi, crime-analytics, uet, second-semester, dr-bilal-ahmad, python]
 description: "For our second semester final project, we built a Crime Arrest Prediction Engine using Chicago crime data, Random Forest, MySQL, and FastAPI — supervised by Dr. Bilal Ahmad."
 image:
-  path: /assets/crime-arrest-prediction.jpg.jpeg
+  path: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800
 ---
 
 There is a meaningful difference between a project that demonstrates you have learned something and a project that actually does something. The first kind proves competence. The second kind builds it in a way that no assignment can replicate, because the problems you encounter are not problems someone designed for you to solve — they are problems the work itself generates, unpredictably, at inconvenient moments, with no answer key available. Our second semester final project at UET Faisalabad was the second kind. We built a Crime Arrest Prediction Engine, trained on the Chicago crime dataset spanning 2001 to 2004 — nearly 1.9 million records of real criminal incidents — and the experience of building it was unlike anything the first semester had produced.
+
+![Crime Arrest Prediction Engine](/assets/crime-arrest-prediction.jpg.jpeg){: width="700" }
 
 The project was supervised by Dr. Bilal Ahmad, and the choice of problem reflected something he has consistently emphasized: that machine learning is most valuable when it is applied to problems that have genuine consequences in the real world. A model trained on synthetic or trivial data teaches you the mechanics of machine learning. A model trained on 1.9 million crime records, designed to predict whether a reported incident would result in an arrest, forces you to confront questions that go beyond the mechanics — questions about what the data actually represents, what the predictions actually mean, and what the limitations of a statistical model are when the subject matter is human behavior and the justice system.
 
