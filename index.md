@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "Rana Muhammad Saqlain"
+layout: page
+title: "Home"
+permalink: /
 ---
 
 <style>
