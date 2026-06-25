@@ -5,10 +5,12 @@ categories: [Second Semester]
 tags: [second-semester, exhibition, machine-learning, crime-prediction, dr-bilal-ahmad, random-forest, mysql, fastapi, uet]
 description: "Standing in front of faculty with a deployed ML system built on 1.9 million crime records — the second semester exhibition was a different kind of test entirely."
 image:
-  path: /assets/second-sem-exhibition.jpg.jpeg
+  path: https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=800
 ---
 
 There is a particular quality to the silence that falls in a room when an evaluator finishes reading your project poster and looks up to ask the first question. It is not the silence of an exam hall, where the only thing between you and a correct answer is memory. It is something closer to the silence before a conversation that you cannot fully prepare for — one where the direction depends on what the other person finds interesting, or unclear, or worth pushing on. The second semester exhibition at UET Faisalabad had that quality throughout. We had built something real, something that worked, and now we had to stand in front of people who understood the field and explain not just what it did but why every part of it was the way it was.
+
+![Second Semester Exhibition](/assets/second-sem-exhibitionjpg.jpeg)
 
 The project we presented was the Crime Arrest Prediction Engine — a machine learning system trained on the Chicago crime dataset covering 2001 to 2004, containing nearly 1.9 million records of real criminal incidents. The system took as input the details of a reported crime — its type, location, district, beat, time of occurrence, and whether it involved a domestic situation — and returned a prediction of whether that incident was likely to result in an arrest, along with a probability score. Behind that interface was a complete technical pipeline: a MySQL database holding the structured crime data, a Random Forest classifier trained in Python using Scikit-learn, a FastAPI backend serving the model's predictions through an API endpoint, and a frontend built in HTML, CSS, and JavaScript that made the system accessible through a browser.
 
