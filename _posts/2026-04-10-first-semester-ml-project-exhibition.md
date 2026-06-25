@@ -5,7 +5,7 @@ categories: [First Semester]
 tags: [machine-learning, python, project, exhibition, uet, first-semester, online-marketing, final-term]
 description: "For our final term in first semester, we built a Machine Learning model on an online marketing dataset and presented it at a university exhibition."
 image:
-  path: /assets/img/exhibition-first-sem.jpg
+  path: /assets/img/exhibition-first-sem.jpg.jpeg
 ---
 
 The final term project of first semester was the moment when everything we had learned stopped being theoretical and became something we had to actually use. Not in a lab exercise with clear instructions and a known answer waiting at the end, but in a real project with a real problem, real data, and a real audience who would evaluate what we built and ask us questions about the choices we made. That shift — from following instructions to making decisions — was the most significant intellectual transition of my first year at UET Faisalabad, and the project that produced it was a Machine Learning model built on an online marketing store dataset.
