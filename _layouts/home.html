@@ -102,14 +102,25 @@ layout: default
 
 <h2 class="section-title">Latest Posts</h2>
 <p class="section-subtitle">My most recent articles from this semester.</p>
-
-{% for post in paginator.posts %}
-<div class="post-item">
-  <div>
-    <div class="post-cat">{{ post.categories | join: ' · ' }}</div>
-    <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
-    <div class="post-desc">{{ post.description }}</div>
+{% for post in site.posts limit:6 %}
+<a href="{{ post.url }}" style="text-decoration:none;display:block;background:white;border-radius:16px;margin-bottom:20px;box-shadow:0 4px 20px rgba(0,0,0,0.08);overflow:hidden;border:1px solid #eee;">
+  {% if post.image %}
+  <div style="height:200px;overflow:hidden;">
+    <img src="{{ post.image.path }}" style="width:100%;height:100%;object-fit:cover;" alt="{{ post.title }}"/>
   </div>
-  <div class="post-date">{{ post.date | date: "%d %b %Y" }}</div>
-</div>
+  {% endif %}
+  <div style="padding:24px;">
+    <div style="display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap;">
+      {% for cat in post.categories %}
+      <span style="background:#e94560;color:white;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:600;">{{ cat }}</span>
+      {% endfor %}
+    </div>
+    <div style="font-size:18px;font-weight:800;color:#1a1a2e;margin-bottom:8px;">{{ post.title }}</div>
+    <div style="font-size:14px;color:#666;line-height:1.6;margin-bottom:16px;">{{ post.description }}</div>
+    <div style="display:flex;justify-content:space-between;align-items:center;">
+      <span style="font-size:13px;color:#999;">{{ post.date | date: "%d %b %Y" }}</span>
+      <span style="background:#1a1a2e;color:white;padding:6px 16px;border-radius:8px;font-size:13px;font-weight:600;">Read More →</span>
+    </div>
+  </div>
+</a>
 {% endfor %}
