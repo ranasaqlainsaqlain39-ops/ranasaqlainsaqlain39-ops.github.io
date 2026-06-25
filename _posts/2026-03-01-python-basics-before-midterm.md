@@ -38,4 +38,6 @@ The weeks before midterm taught me something important about learning to code th
 
 That lesson — practice daily, build something every day even if it is small — shaped how I approached every technical subject that came after. Python gave me more than programming knowledge in those pre-midterm weeks. It gave me a method for learning difficult things, and that method has been worth more than any single concept I picked up along the way.
 
-#MLwithDrBilalAhmad #DrBilalAhmad #MLProject
+
+
+*Want to know more about AI and ML research? Follow Dr. Bilal Ahmad's work on [LinkedIn](https://www.linkedin.com/in/drbilalphd/).*
