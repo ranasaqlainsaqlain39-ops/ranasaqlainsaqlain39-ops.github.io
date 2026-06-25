@@ -5,7 +5,6 @@ title: "Rana Saqlain,s Site"
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 60px 40px; border-radius: 16px; margin-bottom: 40px; color: white;">
   <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <img src="{{ '/assets/img/saq.jpg' | relative_url }}" style="width: 110px; height: 110px; border-radius: 50%; border: 4px solid #e94560; object-fit: cover;" />
     <div>
       <p style="color: #e94560; font-size: 14px; font-weight: 600; margin: 0 0 6px 0; letter-spacing: 2px; text-transform: uppercase;">Computer Engineering Student · UET Faisalabad</p>
       <h1 style="font-size: 2.4rem; font-weight: 800; margin: 0 0 12px 0;">Rana Muhammad Saqlain</h1>
