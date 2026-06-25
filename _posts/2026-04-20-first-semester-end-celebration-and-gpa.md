@@ -5,7 +5,7 @@ categories: [First Semester]
 tags: [first-semester, uet, gpa, celebration, reflection, calculus, python, machine-learning]
 description: "After the final term exhibition, we celebrated the last day of first semester. The GPA I received was not what I had hoped for — and that turned out to be its own kind of education."
 image:
-  path: /assets/img/Last Day-first-sem.jpg
+  path: /assets/Last-Day-first-sem.jpg.jpeg
 ---
 
 There is a particular feeling that comes at the end of a semester that is difficult to describe accurately. It is not quite relief, though relief is part of it. It is not quite happiness, though that is there too. It is something closer to the feeling of putting down a weight you have been carrying for months — not with the dramatic crash you might have imagined, but quietly, in the middle of an ordinary afternoon, when you suddenly realize the carrying is done. That is what the last day of first semester felt like at UET Faisalabad.
